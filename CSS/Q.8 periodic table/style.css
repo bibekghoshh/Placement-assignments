@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    outline: 0px;
+}
+.red{
+    background-color: rgb(235, 133, 133);
+}
+.blue{
+    background-color: rgb(112, 156, 238);
+}
+.green{
+    background-color: rgb(121, 177, 121);
+}
+.yellow{
+    background-color: rgb(232, 232, 120);
+}
+.box{
+    border: 2px solid black;
+    width: 40px;
+    /* height: 36px; */
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.empty{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.table{
+    display: flex;
+}
+.colNo{
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    margin-top: 15px;
+}
+.rowNo{
+    margin-top: 62px;
+}
+.rowNo>p{
+    margin-bottom: 27px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.mt-20{
+    margin-top: 20px;
+}
